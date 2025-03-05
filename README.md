@@ -1,5 +1,7 @@
 # SISPS-EXP-SOC-DATA
 
+[![DOI](https://zenodo.org/badge/940097904.svg)](https://doi.org/10.5281/zenodo.14967525)
+
 Experimental data of Asterion HR12-9 batteries using Electrochemical Impedance Spectroscopy.
 
 This work contributes towards the paper entitled _Observations of Freezing Lead Acid Batteries using Electrochemical Impedance Spectroscopy_ (currently submitted to the Journal of Energy Storage).
